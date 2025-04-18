@@ -5,6 +5,7 @@ export function meta({}: Route.MetaArgs) {
   return [
     { title: "Weather App" },
     { name: "description", content: "Welcome to Weather App!" },
+
   ];
 }
 
